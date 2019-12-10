@@ -1,3 +1,3 @@
-def my_method(name, age)
+def introduction(name, age)
   puts "Hello, my name is #{name} and I am #{age} years old!"
 end
