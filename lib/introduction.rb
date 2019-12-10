@@ -1,3 +1,3 @@
-def introduction(name, age)
-  puts "Hello, my name is #{name} and I am #{age} years old!"
+def introduction_with_language(name, age)
+  puts "Hi, my name is #{name} and I am #{age} years old!"
 end
